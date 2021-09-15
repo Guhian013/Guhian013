@@ -15,7 +15,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Links to my social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/Gu_hhh02
 [2]: https://www.linkedin.com/in/gustavo-ian-gomes-nascimento-230a05220/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhian013&show_icons=true&hide_border=true&theme=synthwave&title_color="#c91240")](https://github.com/Guhian013/github-readme-stats)
