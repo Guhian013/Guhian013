@@ -1,3 +1,24 @@
-# Hi there, I'm <div style="color: red">Gustavo Ian</div> 👋
+# Hi there, I'm Gustavo Ian 👋
 
-### Currently, i'm a student of the computer course that is integrated into high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)
+<h4>Currently, I'm a student of the computer course that is integrated into high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)</h4>
+
+I'm from Brazil and I'm about to look for an internship, that way I can grow more in the professional area I wish to follow 
+
+<!-- Actual text -->
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/gustavo-ian-gomes-nascimento-230a05220/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhian013&show_icons=true&hide_border=true&theme=synthwave&title_color="#c91240")](https://github.com/Guhian013/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhian013&show_icons=true&hide_border=true&theme=synthwave&title_color="#c91240")](https://github.com/Guhian013/github-readme-stats)
+****
+
