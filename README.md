@@ -11,7 +11,7 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/Guhian013/Guhian013/master/icons8-linkedin-15.png (LinkedIn icon without padding)
+[2.2]: https://raw.githubusercontent.com/Guhian013/Guhian013/master/icons8-linkedin-20.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
