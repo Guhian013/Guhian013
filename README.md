@@ -10,10 +10,10 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/Guhian013/Guhian013/master/icons8-linkedin-20.png (LinkedIn icon without padding)
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
+[2.2]: https://raw.githubusercontent.com/Guhian013/Guhian013/master/icons8-linkedin-23.png (LinkedIn icon)
 
-<!-- Links to your social media accounts -->
+<!-- Links to my social media accounts -->
 
 [1]: https://twitter.com/Martin_Heinz_
 [2]: https://www.linkedin.com/in/gustavo-ian-gomes-nascimento-230a05220/
