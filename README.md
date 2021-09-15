@@ -8,6 +8,8 @@ I'm from Brazil and I'm about to look for an internship, that way I can grow mor
 
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
+Have a Nice Day! ✨✌😀
+
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon)
