@@ -20,6 +20,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhian013&show_icons=true&hide_border=true&theme=synthwave&title_color="#c91240")](https://github.com/Guhian013/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhian013&show_icons=true&hide_border=true&theme=synthwave&title_color="#c91240")](https://github.com/Guhian013/github-readme-stats)
-![snake gif](https://github.com/Guhian013/Guhian013/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Guhian013/Guhian013/blob/output/github-contribution-grid-snake.svg)
 ****
 
