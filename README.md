@@ -1,4 +1,4 @@
-# Hello Folks! I'm Gustavo Ian 👋
+# Hey! I'm Gustavo Ian 👋
 
 <h4>Currently, I'm a student of the computer course that is integrated into high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)</h4>
 
