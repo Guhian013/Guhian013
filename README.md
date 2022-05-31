@@ -2,7 +2,7 @@
 
 <h4>Currently, I'm a student of the computer course that is integrated into high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)</h4>
 
-I'm from Brazil and I'm about to look for an internship, that way I can grow more in the professional area I wish to follow 
+I'm from Brazil and i'm about to look for an internship, that way i can grow more in the professional area i wish to follow 
 
 <!-- Actual text -->
 
