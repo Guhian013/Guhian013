@@ -1,14 +1,22 @@
-# Hey! I'm Gustavo Ian 👋
+<h1 align="center">Hey! I'm Gustavo Ian 👋</h1>
 
+<div align="center">
+  
 <h4>Currently, I'm a student of the computer course that is integrated into high school at Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP)</h4>
 
 I'm from Brazil and i'm about to look for an internship, that way i can grow more in the professional area i wish to follow 
 
+</div>
+
 <!-- Actual text -->
 
+<div align="center">
+  
 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 
 Have a Nice Day! ✨✌😀
+
+</div>
 
 <!-- Icons -->
 
