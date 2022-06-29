@@ -20,8 +20,11 @@ Have a Nice Day! ✨✌😀
 [1]: https://twitter.com/Gu_hhh02
 [2]: www.linkedin.com/in/gnascimento-ian
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Guhian013&show_icons=true&hide_border=true&theme=synthwave&title_color="#c91240")](https://github.com/Guhian013/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guhian013&show_icons=true&hide_border=true&theme=synthwave&title_color="#c91240")](https://github.com/Guhian013/github-readme-stats)
-![snake gif](https://github.com/Guhian013/Guhian013/blob/output/github-contribution-grid-snake.svg)
+<div align="center"><img height="300em" src="https://github-readme-stats.vercel.app/api?username=Guhian013&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Guhian013" align="center"/></p>
+
+<div align="center"><img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guhian013&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Guhian013" align="center"/></div>
+
+<p align="center"><img height="300em" src="https://github.com/Guhian013/Guhian013/blob/output/github-contribution-grid-snake.svg" alt="Guhian013" align="center"/></div>
+
 ****
 
