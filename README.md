@@ -1,4 +1,5 @@
-<h1 align="center">Hey! I'm Gustavo Ian 👋</h1>
+<div style="background-color: black;">
+  <h1 align="center">Hey! I'm Gustavo Ian 👋</h1>
 
 <div align="center">
   
@@ -36,3 +37,5 @@ Have a Nice Day! ✨✌😀
 
 ****
 
+
+</div>
