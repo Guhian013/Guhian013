@@ -1,5 +1,4 @@
-<div style="background-color: black;">
-  <h1 align="center">Hey! I'm Gustavo Ian 👋</h1>
+<h1 align="center">Hey! I'm Gustavo Ian 👋</h1>
 
 <div align="center">
   
@@ -36,6 +35,3 @@ Have a Nice Day! ✨✌😀
 <div align="center"><img height="300em" src="https://github.com/Guhian013/Guhian013/blob/output/github-contribution-grid-snake.svg" alt="Guhian013" align="center"/></div>
 
 ****
-
-
-</div>
