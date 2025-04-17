@@ -25,7 +25,7 @@ Have a Nice Day!
 
 <!-- Links to my social media accounts -->
 
-[1]: www.instagram.com/guhh_ian/
+[1]: www.instagram.com/mezzoniente/
 [2]: www.linkedin.com/in/gnascimento-ian
 
 <div align="center"><img height="300em" src="https://github-readme-stats.vercel.app/api?username=Guhian013&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Guhian013" align="center"/></p>
